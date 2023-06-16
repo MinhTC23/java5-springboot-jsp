@@ -1,0 +1,113 @@
+.title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.line {
+    width: 100%;
+    height: 4px;
+    background: green;
+    margin-bottom: 50px;
+}
+
+#cardd {
+    padding: 30px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-textt {
+    text-align: left;
+    line-height: 25px;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #f3f6fa;
+}
+
+#heart {
+    background-color: white;
+    margin-top: 5px;
+    margin-right: 10px;
+    border: #ffffff;
+    background-color: #fdf1ec;
+}
+
+.afooter {
+    text-decoration: none;
+    color: #1c1c1c;
+    margin-left: -31px;
+}
+
+.aheader {
+    text-decoration: none;
+    color: #1c1c1c;
+}
+
+ul {
+    list-style: none;
+}
+
+footer .container .row .col-4 {
+    margin-top: 50px;
+    line-height: 35px;
+}
+
+footer .container .row .col-2 {
+    margin-top: 50px;
+    line-height: 35px;
+}
+
+#menuchinh b {
+    font-size: 15px;
+}
+
+#test {
+    display: inline-block;
+    height: 41px;
+    width: 41px;
+    font-size: 16px;
+    color: #404040;
+    border: 1px solid #ededed;
+    border-radius: 50%;
+    line-height: 38px;
+    text-align: center;
+    background: #ffffff;
+    -webkit-transition: all, 0.3s;
+    -moz-transition: all, 0.3s;
+    -ms-transition: all, 0.3s;
+    -o-transition: all, 0.3s;
+    transition: all, 0.3s;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+#test:hover {
+    background-color: green;
+}
+
+.iconfooter {
+    margin-left: -33px;
+}
+
+.d-flex {
+    margin-top: 10px;
+}
+
+.noidung {
+    margin-top: 20px;
+}
+
+#icon_header {
+    height: 20px;
+    margin-top: 10px;
+}
+
+.pageing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
